@@ -20,7 +20,6 @@ __________
 ### I studied at 🧑‍🎓:
 - [ ] [Telegram Bot](https://github.com/mantile/steptik_tgbot) 
 __________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantile&layout=compact)](https://github.com/mantile/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mantile&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
  
