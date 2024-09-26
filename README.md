@@ -1,25 +1,17 @@
 ### Hi there 👋, my name is Michael
 
 I am QA engineer, who learning programming language 🙃
-__________
-### I’m learning 🧑‍🏫:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />        
-__________
-### Github Stats 🖥️:
-![Metrics](https://metrics.lecoq.io/Mantile?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
-__________
-### I’m working on 🧑‍💻:
-   - [ ] [Telegram Bot](/) 
-   - [ ] [Online Shop](/)
-__________
 
-### I studied at 🧑‍🎓:
-- [ ] [Telegram Bot](https://github.com/mantile/steptik_tgbot) 
-__________
+### I’m learning 🧑‍🏫:
+## Most time:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>
+## Try to know when need it:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>        
+
+### Github Stats 🖥️:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mantile&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mantile&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mantile&theme=aura)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mantile&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
  
