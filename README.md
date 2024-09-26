@@ -11,7 +11,7 @@ I am QA engineer, who learning programming language 🙃
 ### Github Stats 🖥️:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mantile&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantile&layout=donut)](https://github.com/mantile/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mantile&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mantile&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
  
 
 <!--
