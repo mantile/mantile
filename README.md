@@ -2,10 +2,17 @@
 
 I am QA engineer, who learning programming language 🙃
 
+### My training
+Done:
+[Steptik Python for begginers certificate](https://stepik.org/certificate/c1752593ce41671422ae250c82cbe9893d7ebf04.pdf)
+
+In progress:
+[Javascript for begginers certificate]()
+
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=mantile&theme=dark)](https://github.com/mantile/github-readme-codewars)
+
 ### I’m learning 🧑‍🏫:
-## Most time:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>
-## Try to know when need it:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>        
 
 ### Github Stats 🖥️:
