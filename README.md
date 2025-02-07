@@ -9,7 +9,7 @@ Done:
 In progress:
 [Javascript for begginers certificate]()
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=mantile&theme=dark)](https://github.com/mantile/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=mantile&theme=dark)](https://www.codewars.com/users/mantile)
 
 ### I’m learning 🧑‍🏫:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>
