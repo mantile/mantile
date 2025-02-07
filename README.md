@@ -16,8 +16,6 @@ In progress:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>        
 
 ### Github Stats 🖥️:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mantile&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantile&layout=donut)](https://github.com/mantile/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=mantile&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
  
 
